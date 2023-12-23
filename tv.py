@@ -5,6 +5,7 @@ import json
 response = requests.get('https://m3u.ibert.me/txt/fmml_dv6.txt')
 lines = response.text.splitlines()
 
+
 # 读取原始配置
 with open('config.json', 'r', encoding='utf-8') as f:
     config = json.load(f)
