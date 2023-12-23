@@ -18,7 +18,7 @@
       "group": "IPTV",
       "channels": [
         {
-          "name": "CCTV-1 333333",
+          "name": "CCTV-1 综合",
           "urls": [
             "http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001022/index.m3u8"
           ]
