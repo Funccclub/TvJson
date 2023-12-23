@@ -34,5 +34,5 @@ jobs:
         git commit -am "Update config.json" || exit 0
         git push https://${{ secrets.GH_TOKEN }}@github.com/Funccclub/TvJson.git HEAD:main
       env:
-        GH_TOKEN: ${{ secrets.GH_TOKEN }}
+        GH_TOKEN: ${{ secrets.TOKEN }}
 
