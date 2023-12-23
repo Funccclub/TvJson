@@ -2,7 +2,8 @@ name: Update config.json
 
 on:
   schedule:
-    - cron:  '0 3 * * *' # Runs every day at 00:00 UTC
+    - cron:  '0 0 * * *' # Runs every day at 00:00 UTC
+  workflow_dispatch: # Allows manual triggering
 
 jobs:
   build:
@@ -23,7 +24,7 @@ jobs:
         pip install requests
 
     - name: Run script
-      run: python TV.py
+      run: python tv.py
 
     - name: Commit and push if it changed
       run: |
