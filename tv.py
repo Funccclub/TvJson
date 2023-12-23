@@ -2,7 +2,7 @@ import requests
 import json
 
 # 下载直链地址中的内容
-response = requests.get('https://m3u.ibert.me/txt/fmml_dv6.txt')
+response = requests.get('https://m3u.ibert.me/txt/fmml_ipv6.txt')
 lines = response.text.splitlines()
 
 
