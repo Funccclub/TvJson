@@ -1,0 +1,863 @@
+{
+  "sites": [
+    {
+      "key": "点播源",
+      "name": "点播源",
+      "type": 3,
+      "api": "http://www.kkkkkbbbbb.com/api.php/provide/vod/at/xml/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "categories": [
+        "国产剧"
+      ]
+    }
+  ],
+  "lives": [
+    {
+      "group": "IPTV",
+      "channels": [
+        {
+          "name": "CCTV-1 综合",
+          "urls": [
+            "http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001022/index.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV-2 财经",
+          "urls": [
+            "http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001220/index.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV-3 综艺",
+          "urls": [
+            "http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001186/index.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV-4 中文国际",
+          "urls": [
+            "http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001221/index.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV-5 体育",
+          "urls": [
+            "http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001187/index.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV-6 电影",
+          "urls": [
+            "http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001188/index.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV-7 国防军事",
+          "urls": [
+            "http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001236/index.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV-8 电视剧",
+          "urls": [
+            "http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001189/index.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV-9 纪录",
+          "urls": [
+            "http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001237/index.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV-10 科教",
+          "urls": [
+            "http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001238/index.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV-11 戏曲",
+          "urls": [
+            "http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001309/index.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV-12 社会与法",
+          "urls": [
+            "http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001239/index.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV-13 新闻",
+          "urls": [
+            "http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001328/index.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV-14 少儿",
+          "urls": [
+            "http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001240/index.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV-15 音乐",
+          "urls": [
+            "http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001338/index.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV-16 奥林匹克",
+          "urls": [
+            "http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001248/index.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV-17 农业农村",
+          "urls": [
+            "http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001241/index.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV-16 奥林匹克 4K",
+          "urls": [
+            "http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001258/index.m3u8"
+          ]
+        },
+        {
+          "name": "CGTN英语",
+          "urls": [
+            "http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001058/index.m3u8"
+          ]
+        },
+        {
+          "name": "北京卫视",
+          "urls": [
+            "http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001029/index.m3u8"
+          ]
+        },
+        {
+          "name": "湖南卫视",
+          "urls": [
+            "http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001026/index.m3u8"
+          ]
+        },
+        {
+          "name": "东方卫视",
+          "urls": [
+            "http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001013/index.m3u8"
+          ]
+        },
+        {
+          "name": "四川卫视",
+          "urls": [
+            "http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001130/index.m3u8"
+          ]
+        },
+        {
+          "name": "天津卫视",
+          "urls": [
+            "http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001036/index.m3u8"
+          ]
+        },
+        {
+          "name": "安徽卫视",
+          "urls": [
+            "http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001037/index.m3u8"
+          ]
+        },
+        {
+          "name": "山东卫视",
+          "urls": [
+            "http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001028/index.m3u8"
+          ]
+        },
+        {
+          "name": "广东卫视",
+          "urls": [
+            "http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001032/index.m3u8"
+          ]
+        },
+        {
+          "name": "广西卫视",
+          "urls": [
+            "http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001224/index.m3u8"
+          ]
+        },
+        {
+          "name": "江苏卫视",
+          "urls": [
+            "http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001033/index.m3u8"
+          ]
+        },
+        {
+          "name": "江西卫视",
+          "urls": [
+            "http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001034/index.m3u8"
+          ]
+        },
+        {
+          "name": "河北卫视",
+          "urls": [
+            "http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001229/index.m3u8"
+          ]
+        },
+        {
+          "name": "河南卫视",
+          "urls": [
+            "http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001222/index.m3u8"
+          ]
+        },
+        {
+          "name": "浙江卫视",
+          "urls": [
+            "http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001023/index.m3u8"
+          ]
+        },
+        {
+          "name": "海南卫视",
+          "urls": [
+            "http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001183/index.m3u8"
+          ]
+        },
+        {
+          "name": "深圳卫视",
+          "urls": [
+            "http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001030/index.m3u8"
+          ]
+        },
+        {
+          "name": "湖北卫视",
+          "urls": [
+            "http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001027/index.m3u8"
+          ]
+        },
+        {
+          "name": "山西卫视",
+          "urls": [
+            "http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001070/index.m3u8"
+          ]
+        },
+        {
+          "name": "东南卫视",
+          "urls": [
+            "http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001201/index.m3u8"
+          ]
+        },
+        {
+          "name": "贵州卫视",
+          "urls": [
+            "http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001184/index.m3u8"
+          ]
+        },
+        {
+          "name": "辽宁卫视",
+          "urls": [
+            "http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001035/index.m3u8"
+          ]
+        },
+        {
+          "name": "重庆卫视",
+          "urls": [
+            "http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001129/index.m3u8"
+          ]
+        },
+        {
+          "name": "黑龙江卫视",
+          "urls": [
+            "http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001031/index.m3u8"
+          ]
+        },
+        {
+          "name": "内蒙古卫视",
+          "urls": [
+            "http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001068/index.m3u8"
+          ]
+        },
+        {
+          "name": "宁夏卫视",
+          "urls": [
+            "http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001074/index.m3u8"
+          ]
+        },
+        {
+          "name": "陕西卫视",
+          "urls": [
+            "http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001067/index.m3u8"
+          ]
+        },
+        {
+          "name": "甘肃卫视",
+          "urls": [
+            "http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001298/index.m3u8"
+          ]
+        },
+        {
+          "name": "吉林卫视",
+          "urls": [
+            "http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001225/index.m3u8"
+          ]
+        },
+        {
+          "name": "云南卫视",
+          "urls": [
+            "http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001223/index.m3u8"
+          ]
+        },
+        {
+          "name": "三沙卫视",
+          "urls": [
+            "http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001185/index.m3u8"
+          ]
+        },
+        {
+          "name": "青海卫视",
+          "urls": [
+            "http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001450/index.m3u8"
+          ]
+        },
+        {
+          "name": "新疆卫视",
+          "urls": [
+            "http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001065/index.m3u8"
+          ]
+        },
+        {
+          "name": "西藏卫视",
+          "urls": [
+            "http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001072/index.m3u8"
+          ]
+        },
+        {
+          "name": "兵团卫视",
+          "urls": [
+            "http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001066/index.m3u8"
+          ]
+        },
+        {
+          "name": "延边卫视",
+          "urls": [
+            "http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001470/index.m3u8"
+          ]
+        },
+        {
+          "name": "CETV-1",
+          "urls": [
+            "http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001020/index.m3u8"
+          ]
+        },
+        {
+          "name": "CETV-2",
+          "urls": [
+            "http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001226/index.m3u8"
+          ]
+        },
+        {
+          "name": "CETV-4",
+          "urls": [
+            "http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001348/index.m3u8"
+          ]
+        },
+        {
+          "name": "金色学堂",
+          "urls": [
+            "http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001194/index.m3u8"
+          ]
+        },
+        {
+          "name": "纪实人文",
+          "urls": [
+            "http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001019/index.m3u8"
+          ]
+        },
+        {
+          "name": "生活时尚",
+          "urls": [
+            "http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001199/index.m3u8"
+          ]
+        },
+        {
+          "name": "乐游频道",
+          "urls": [
+            "http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001200/index.m3u8"
+          ]
+        },
+        {
+          "name": "都市剧场",
+          "urls": [
+            "http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001203/index.m3u8"
+          ]
+        },
+        {
+          "name": "欢笑剧场",
+          "urls": [
+            "http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001193/index.m3u8"
+          ]
+        },
+        {
+          "name": "卡酷少儿",
+          "urls": [
+            "http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001245/index.m3u8"
+          ]
+        },
+        {
+          "name": "金鹰纪实",
+          "urls": [
+            "http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001230/index.m3u8"
+          ]
+        },
+        {
+          "name": "金鹰卡通",
+          "urls": [
+            "http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001460/index.m3u8"
+          ]
+        },
+        {
+          "name": "茶友频道",
+          "urls": [
+            "http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001234/index.m3u8"
+          ]
+        },
+        {
+          "name": "快乐垂钓",
+          "urls": [
+            "http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001235/index.m3u8"
+          ]
+        },
+        {
+          "name": "嘉佳卡通",
+          "urls": [
+            "http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001227/index.m3u8"
+          ]
+        },
+        {
+          "name": "动漫秀场",
+          "urls": [
+            "http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001196/index.m3u8"
+          ]
+        },
+        {
+          "name": "哈哈炫动",
+          "urls": [
+            "http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001232/index.m3u8"
+          ]
+        },
+        {
+          "name": "游戏风云",
+          "urls": [
+            "http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001192/index.m3u8"
+          ]
+        },
+        {
+          "name": "家庭理财",
+          "urls": [
+            "http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001278/index.m3u8"
+          ]
+        },
+        {
+          "name": "财富天下",
+          "urls": [
+            "http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001219/index.m3u8"
+          ]
+        },
+        {
+          "name": "中国天气",
+          "urls": [
+            "http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001102/index.m3u8"
+          ]
+        },
+        {
+          "name": "上海新闻",
+          "urls": [
+            "http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001014/index.m3u8"
+          ]
+        },
+        {
+          "name": "上海都市",
+          "urls": [
+            "http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001015/index.m3u8"
+          ]
+        },
+        {
+          "name": "上海ICS",
+          "urls": [
+            "http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001128/index.m3u8"
+          ]
+        },
+        {
+          "name": "七彩戏剧",
+          "urls": [
+            "http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001308/index.m3u8"
+          ]
+        },
+        {
+          "name": "上海教育",
+          "urls": [
+            "http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001268/index.m3u8"
+          ]
+        },
+        {
+          "name": "五星体育",
+          "urls": [
+            "http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001018/index.m3u8"
+          ]
+        },
+        {
+          "name": "东方影视",
+          "urls": [
+            "http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001016/index.m3u8"
+          ]
+        },
+        {
+          "name": "东方财经",
+          "urls": [
+            "http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001318/index.m3u8"
+          ]
+        },
+        {
+          "name": "法治天地",
+          "urls": [
+            "http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001195/index.m3u8"
+          ]
+        },
+        {
+          "name": "第一财经",
+          "urls": [
+            "http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001017/index.m3u8"
+          ]
+        },
+        {
+          "name": "Bestv赛事1",
+          "urls": [
+            "http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001151/index.m3u8"
+          ]
+        },
+        {
+          "name": "Bestv赛事2",
+          "urls": [
+            "http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001359/index.m3u8"
+          ]
+        },
+        {
+          "name": "Bestv赛事3",
+          "urls": [
+            "http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001388/index.m3u8"
+          ]
+        },
+        {
+          "name": "Bestv赛事4",
+          "urls": [
+            "http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001149/index.m3u8"
+          ]
+        },
+        {
+          "name": "Bestv赛事5",
+          "urls": [
+            "http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001153/index.m3u8"
+          ]
+        },
+        {
+          "name": "Bestv赛事6",
+          "urls": [
+            "http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001154/index.m3u8"
+          ]
+        },
+        {
+          "name": "东方购物1",
+          "urls": [
+            "http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001040/index.m3u8"
+          ]
+        },
+        {
+          "name": "东方购物2",
+          "urls": [
+            "http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001039/index.m3u8"
+          ]
+        },
+        {
+          "name": "央广购物",
+          "urls": [
+            "http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001420/index.m3u8"
+          ]
+        },
+        {
+          "name": "优购物",
+          "urls": [
+            "http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001440/index.m3u8"
+          ]
+        },
+        {
+          "name": "好享购物",
+          "urls": [
+            "http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001132/index.m3u8"
+          ]
+        },
+        {
+          "name": "聚鲨精选",
+          "urls": [
+            "http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001138/index.m3u8"
+          ]
+        },
+        {
+          "name": "家家购物",
+          "urls": [
+            "http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001163/index.m3u8"
+          ]
+        },
+        {
+          "name": "家有购物",
+          "urls": [
+            "http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001244/index.m3u8"
+          ]
+        },
+        {
+          "name": "快乐购",
+          "urls": [
+            "http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001368/index.m3u8"
+          ]
+        }
+      ]
+    }
+  ],
+  "parses": [
+    {
+      "name": "解析1",
+      "type": 0,
+      "url": "https://xxx.xxx?jx="
+    }
+  ],
+  "flags": [
+    "youku",
+    "qq",
+    "iqiyi",
+    "qiyi",
+    "letv",
+    "sohu",
+    "tudou",
+    "pptv",
+    "mgtv",
+    "wasu"
+  ],
+  "ijk": [
+    {
+      "group": "软解码",
+      "options": [
+        {
+          "category": 4,
+          "name": "opensles",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "overlay-format",
+          "value": "842225234"
+        },
+        {
+          "category": 4,
+          "name": "framedrop",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "soundtouch",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "start-on-prepared",
+          "value": "1"
+        },
+        {
+          "category": 1,
+          "name": "http-detect-range-support",
+          "value": "0"
+        },
+        {
+          "category": 1,
+          "name": "fflags",
+          "value": "fastseek"
+        },
+        {
+          "category": 2,
+          "name": "skip_loop_filter",
+          "value": "48"
+        },
+        {
+          "category": 4,
+          "name": "reconnect",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "max-buffer-size",
+          "value": "5242880"
+        },
+        {
+          "category": 4,
+          "name": "enable-accurate-seek",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-auto-rotate",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-handle-resolution-change",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-hevc",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "group": "硬解码",
+      "options": [
+        {
+          "category": 4,
+          "name": "opensles",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "overlay-format",
+          "value": "842225234"
+        },
+        {
+          "category": 4,
+          "name": "framedrop",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "soundtouch",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "start-on-prepared",
+          "value": "1"
+        },
+        {
+          "category": 1,
+          "name": "http-detect-range-support",
+          "value": "0"
+        },
+        {
+          "category": 1,
+          "name": "fflags",
+          "value": "fastseek"
+        },
+        {
+          "category": 2,
+          "name": "skip_loop_filter",
+          "value": "48"
+        },
+        {
+          "category": 4,
+          "name": "reconnect",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "max-buffer-size",
+          "value": "5242880"
+        },
+        {
+          "category": 4,
+          "name": "enable-accurate-seek",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-auto-rotate",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-handle-resolution-change",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-hevc",
+          "value": "1"
+        }
+      ]
+    }
+  ],
+  "ads": [
+    "mimg.0c1q0l.cn",
+    "www.googletagmanager.com",
+    "www.google-analytics.com",
+    "mc.usihnbcq.cn",
+    "mg.g1mm3d.cn",
+    "mscs.svaeuzh.cn",
+    "cnzz.hhttm.top",
+    "tp.vinuxhome.com",
+    "cnzz.mmstat.com",
+    "www.baihuillq.com",
+    "s23.cnzz.com",
+    "z3.cnzz.com",
+    "c.cnzz.com",
+    "stj.v1vo.top",
+    "z12.cnzz.com",
+    "img.mosflower.cn",
+    "tips.gamevvip.com",
+    "ehwe.yhdtns.com",
+    "xdn.cqqc3.com",
+    "www.jixunkyy.cn",
+    "sp.chemacid.cn",
+    "hm.baidu.com",
+    "s9.cnzz.com",
+    "z6.cnzz.com",
+    "um.cavuc.com",
+    "mav.mavuz.com",
+    "wofwk.aoidf3.com",
+    "z5.cnzz.com",
+    "xc.hubeijieshikj.cn",
+    "tj.tianwenhu.com",
+    "xg.gars57.cn",
+    "k.jinxiuzhilv.com",
+    "cdn.bootcss.com",
+    "ppl.xunzhuo123.com",
+    "xomk.jiangjunmh.top",
+    "img.xunzhuo123.com",
+    "z1.cnzz.com",
+    "s13.cnzz.com",
+    "xg.huataisangao.cn",
+    "z7.cnzz.com",
+    "xg.huataisangao.cn",
+    "z2.cnzz.com",
+    "s96.cnzz.com",
+    "q11.cnzz.com",
+    "thy.dacedsfa.cn",
+    "xg.whsbpw.cn",
+    "s19.cnzz.com",
+    "z8.cnzz.com",
+    "s4.cnzz.com",
+    "f5w.as12df.top",
+    "ae01.alicdn.com",
+    "www.92424.cn",
+    "k.wudejia.com",
+    "vivovip.mmszxc.top",
+    "qiu.xixiqiu.com",
+    "cdnjs.hnfenxun.com",
+    "cms.qdwght.com"
+  ]
+}
