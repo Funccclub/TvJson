@@ -426,6 +426,12 @@
           ]
         },
         {
+          "name": "CETV-3",
+          "urls": [
+            "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001309/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+          ]
+        },
+        {
           "name": "CETV-4",
           "urls": [
             "http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001348/index.m3u8"
@@ -549,6 +555,12 @@
           "name": "财富天下",
           "urls": [
             "http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001219/index.m3u8"
+          ]
+        },
+        {
+          "name": "弈坛春秋",
+          "urls": [
+            "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001322/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
           ]
         },
         {
@@ -687,54 +699,6 @@
           "name": "第一财经",
           "urls": [
             "http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001017/index.m3u8"
-          ]
-        },
-        {
-          "name": "浙江公共新闻",
-          "urls": [
-            "http://hw-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8"
-          ]
-        },
-        {
-          "name": "浙江国际",
-          "urls": [
-            "http://hw-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8"
-          ]
-        },
-        {
-          "name": "浙江少儿",
-          "urls": [
-            "http://hw-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8"
-          ]
-        },
-        {
-          "name": "浙江教科影视",
-          "urls": [
-            "http://hw-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8"
-          ]
-        },
-        {
-          "name": "浙江数码时代",
-          "urls": [
-            "http://hw-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8"
-          ]
-        },
-        {
-          "name": "浙江民生休闲",
-          "urls": [
-            "http://hw-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8"
-          ]
-        },
-        {
-          "name": "浙江经济生活",
-          "urls": [
-            "http://hw-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8"
-          ]
-        },
-        {
-          "name": "浙江钱江频道",
-          "urls": [
-            "http://hw-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8"
           ]
         },
         {
