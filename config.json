@@ -50,7 +50,7 @@
         {
           "name": "CCTV-5+ 体育赛事",
           "urls": [
-            "http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001334/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+            "http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225761/1.m3u8"
           ]
         },
         {
@@ -171,12 +171,6 @@
           "name": "凤凰资讯",
           "urls": [
             "http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8"
-          ]
-        },
-        {
-          "name": "凤凰香港",
-          "urls": [
-            "http://[2409:8087:2001:20:2800:0:df6e:eb1d]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8"
           ]
         },
         {
@@ -360,18 +354,6 @@
           ]
         },
         {
-          "name": "大湾区卫视",
-          "urls": [
-            "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001305/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
-          ]
-        },
-        {
-          "name": "安多卫视",
-          "urls": [
-            "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001311/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
-          ]
-        },
-        {
           "name": "青海卫视",
           "urls": [
             "http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001450/index.m3u8"
@@ -402,6 +384,18 @@
           ]
         },
         {
+          "name": "大湾区卫视",
+          "urls": [
+            "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226442/index.m3u8"
+          ]
+        },
+        {
+          "name": "安多卫视",
+          "urls": [
+            "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225659/index.m3u8"
+          ]
+        },
+        {
           "name": "厦门卫视",
           "urls": [
             "http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226219/index.m3u8"
@@ -410,7 +404,7 @@
         {
           "name": "康巴卫视",
           "urls": [
-            "http://[2409:8087:2001:20:2800:0:df6e:eb10]:80/wh7f454c46tw3423902933_-437655574/ott.mobaibox.com/PLTV/3/224/3221227645/index.m3u8"
+            "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225660/index.m3u8"
           ]
         },
         {
@@ -474,9 +468,9 @@
           ]
         },
         {
-          "name": "北京纪实科教",
+          "name": "纪实科教",
           "urls": [
-            "http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001329/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+            "http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226232/1.m3u8"
           ]
         },
         {
@@ -561,6 +555,12 @@
           "name": "弈坛春秋",
           "urls": [
             "http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001322/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
+          ]
+        },
+        {
+          "name": "老故事",
+          "urls": [
+            "http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226236/index.m3u8"
           ]
         },
         {
@@ -699,6 +699,54 @@
           "name": "第一财经",
           "urls": [
             "http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001017/index.m3u8"
+          ]
+        },
+        {
+          "name": "浙江公共新闻",
+          "urls": [
+            "https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8"
+          ]
+        },
+        {
+          "name": "浙江国际",
+          "urls": [
+            "https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8"
+          ]
+        },
+        {
+          "name": "浙江少儿",
+          "urls": [
+            "https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8"
+          ]
+        },
+        {
+          "name": "浙江教科影视",
+          "urls": [
+            "https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8"
+          ]
+        },
+        {
+          "name": "浙江数码时代",
+          "urls": [
+            "https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8"
+          ]
+        },
+        {
+          "name": "浙江民生休闲",
+          "urls": [
+            "https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8"
+          ]
+        },
+        {
+          "name": "浙江经济生活",
+          "urls": [
+            "https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8"
+          ]
+        },
+        {
+          "name": "浙江钱江频道",
+          "urls": [
+            "https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8"
           ]
         },
         {
