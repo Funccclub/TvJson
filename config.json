@@ -564,6 +564,12 @@
           ]
         },
         {
+          "name": "置业频道",
+          "urls": [
+            "http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226241/index.m3u8"
+          ]
+        },
+        {
           "name": "中国天气",
           "urls": [
             "http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001102/index.m3u8"
@@ -747,6 +753,84 @@
           "name": "浙江钱江频道",
           "urls": [
             "https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8"
+          ]
+        },
+        {
+          "name": "陕西新闻资讯",
+          "urls": [
+            "http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226357/1.m3u8"
+          ]
+        },
+        {
+          "name": "陕西都市青春",
+          "urls": [
+            "http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226358/1.m3u8"
+          ]
+        },
+        {
+          "name": "陕西生活频道",
+          "urls": [
+            "http://[2409:8087:7001:20:3::6]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226359/1.m3u8"
+          ]
+        },
+        {
+          "name": "陕西影视频道",
+          "urls": [
+            "http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226360/1.m3u8"
+          ]
+        },
+        {
+          "name": "陕西公共频道",
+          "urls": [
+            "http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226361/1.m3u8"
+          ]
+        },
+        {
+          "name": "陕西体育休闲",
+          "urls": [
+            "http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226363/1.m3u8"
+          ]
+        },
+        {
+          "name": "陕西西部电影",
+          "urls": [
+            "http://[2409:8087:7001:20:3::9]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226364/1.m3u8"
+          ]
+        },
+        {
+          "name": "西安新闻综合",
+          "urls": [
+            "http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226366/1.m3u8"
+          ]
+        },
+        {
+          "name": "西安都市频道",
+          "urls": [
+            "http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226367/1.m3u8"
+          ]
+        },
+        {
+          "name": "西安商务资讯",
+          "urls": [
+            "http://[2409:8087:7001:20:3::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226368/1.m3u8"
+          ]
+        },
+        {
+          "name": "西安影视频道",
+          "urls": [
+            "http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226369/1.m3u8"
+          ]
+        },
+        {
+          "name": "西安丝路频道",
+          "urls": [
+            "http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226370/1.m3u8"
+          ]
+        },
+        {
+          "name": "西安教育频道",
+          "urls": [
+            "http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226371/index.m3u8"
           ]
         },
         {
