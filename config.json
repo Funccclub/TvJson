@@ -162,6 +162,120 @@
           ]
         },
         {
+          "name": "兵器科技",
+          "urls": [
+            "http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226975/index.m3u8"
+          ]
+        },
+        {
+          "name": "怀旧剧场",
+          "urls": [
+            "http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226972/index.m3u8"
+          ]
+        },
+        {
+          "name": "世界地理",
+          "urls": [
+            "http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226947/index.m3u8"
+          ]
+        },
+        {
+          "name": "文化精品",
+          "urls": [
+            "http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226981/index.m3u8"
+          ]
+        },
+        {
+          "name": "央视台球",
+          "urls": [
+            "http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226956/index.m3u8"
+          ]
+        },
+        {
+          "name": "央视高网",
+          "urls": [
+            "http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226978/index.m3u8"
+          ]
+        },
+        {
+          "name": "风云剧场",
+          "urls": [
+            "http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226950/index.m3u8"
+          ]
+        },
+        {
+          "name": "风云音乐",
+          "urls": [
+            "http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226953/index.m3u8"
+          ]
+        },
+        {
+          "name": "第一剧场",
+          "urls": [
+            "http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226959/index.m3u8"
+          ]
+        },
+        {
+          "name": "女性时尚",
+          "urls": [
+            "http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226969/index.m3u8"
+          ]
+        },
+        {
+          "name": "风云足球",
+          "urls": [
+            "http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8"
+          ]
+        },
+        {
+          "name": "电视指南",
+          "urls": [
+            "http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226987/index.m3u8"
+          ]
+        },
+        {
+          "name": "CGTN英语",
+          "urls": [
+            "http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001058/index.m3u8"
+          ]
+        },
+        {
+          "name": "CGTN记录",
+          "urls": [
+            "https://livedoc.cgtn.com/500d/prog_index.m3u8"
+          ]
+        },
+        {
+          "name": "CGTN俄语",
+          "urls": [
+            "https://liveru.cgtn.com/1000r/prog_index.m3u8"
+          ]
+        },
+        {
+          "name": "CGTN法语",
+          "urls": [
+            "https://livefr.cgtn.com/1000f/prog_index.m3u8"
+          ]
+        },
+        {
+          "name": "CGTN西语",
+          "urls": [
+            "https://livees.cgtn.com/1000e/prog_index.m3u8"
+          ]
+        },
+        {
+          "name": "CGTN阿语",
+          "urls": [
+            "https://livear.cgtn.com/1000a/prog_index.m3u8"
+          ]
+        },
+        {
+          "name": "卫视频道",
+          "urls": [
+            "#genre#"
+          ]
+        },
+        {
           "name": "凤凰中文",
           "urls": [
             "http://[2409:8087:2001:20:2800:0:df6e:eb24]:80/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8"
@@ -576,75 +690,9 @@
           ]
         },
         {
-          "name": "兵器科技",
+          "name": "上海频道",
           "urls": [
-            "http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226975/index.m3u8"
-          ]
-        },
-        {
-          "name": "怀旧剧场",
-          "urls": [
-            "http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226972/index.m3u8"
-          ]
-        },
-        {
-          "name": "世界地理",
-          "urls": [
-            "http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226947/index.m3u8"
-          ]
-        },
-        {
-          "name": "文化精品",
-          "urls": [
-            "http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226981/index.m3u8"
-          ]
-        },
-        {
-          "name": "央视台球",
-          "urls": [
-            "http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226956/index.m3u8"
-          ]
-        },
-        {
-          "name": "央视高网",
-          "urls": [
-            "http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226978/index.m3u8"
-          ]
-        },
-        {
-          "name": "风云剧场",
-          "urls": [
-            "http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226950/index.m3u8"
-          ]
-        },
-        {
-          "name": "风云音乐",
-          "urls": [
-            "http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226953/index.m3u8"
-          ]
-        },
-        {
-          "name": "第一剧场",
-          "urls": [
-            "http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226959/index.m3u8"
-          ]
-        },
-        {
-          "name": "女性时尚",
-          "urls": [
-            "http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226969/index.m3u8"
-          ]
-        },
-        {
-          "name": "风云足球",
-          "urls": [
-            "http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8"
-          ]
-        },
-        {
-          "name": "电视指南",
-          "urls": [
-            "http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226987/index.m3u8"
+            "#genre#"
           ]
         },
         {
@@ -708,6 +756,12 @@
           ]
         },
         {
+          "name": "浙江频道",
+          "urls": [
+            "#genre#"
+          ]
+        },
+        {
           "name": "浙江公共新闻",
           "urls": [
             "https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8"
@@ -753,6 +807,12 @@
           "name": "浙江钱江频道",
           "urls": [
             "https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8"
+          ]
+        },
+        {
+          "name": "陕西频道",
+          "urls": [
+            "#genre#"
           ]
         },
         {
@@ -834,6 +894,12 @@
           ]
         },
         {
+          "name": "求索系列",
+          "urls": [
+            "#genre#"
+          ]
+        },
+        {
           "name": "求索记录",
           "urls": [
             "http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000032052/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032052&livemode=1&stbId=3"
@@ -855,6 +921,12 @@
           "name": "求索生活",
           "urls": [
             "http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000003382/index.m3u8?channel-id=wasusyt&Contentid=6000000002000003382&livemode=1&stbId=3"
+          ]
+        },
+        {
+          "name": "NewTV系列",
+          "urls": [
+            "#genre#"
           ]
         },
         {
@@ -960,39 +1032,9 @@
           ]
         },
         {
-          "name": "CGTN英语",
+          "name": "赛事直播",
           "urls": [
-            "http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001058/index.m3u8"
-          ]
-        },
-        {
-          "name": "CGTN记录",
-          "urls": [
-            "https://livedoc.cgtn.com/500d/prog_index.m3u8"
-          ]
-        },
-        {
-          "name": "CGTN俄语",
-          "urls": [
-            "https://liveru.cgtn.com/1000r/prog_index.m3u8"
-          ]
-        },
-        {
-          "name": "CGTN法语",
-          "urls": [
-            "https://livefr.cgtn.com/1000f/prog_index.m3u8"
-          ]
-        },
-        {
-          "name": "CGTN西语",
-          "urls": [
-            "https://livees.cgtn.com/1000e/prog_index.m3u8"
-          ]
-        },
-        {
-          "name": "CGTN阿语",
-          "urls": [
-            "https://livear.cgtn.com/1000a/prog_index.m3u8"
+            "#genre#"
           ]
         },
         {
@@ -1029,6 +1071,12 @@
           "name": "Bestv赛事6",
           "urls": [
             "http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001154/index.m3u8"
+          ]
+        },
+        {
+          "name": "购物频道",
+          "urls": [
+            "#genre#"
           ]
         },
         {
