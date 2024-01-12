@@ -132,12 +132,6 @@
           ]
         },
         {
-          "name": "CCTV-4K 超高清",
-          "urls": [
-            "http://[2409:8087:2001:20:2800:0:df6e:eb26]:80/ott.mobaibox.com/PLTV/3/224/3221228472/index.m3u8"
-          ]
-        },
-        {
           "name": "CCTV-8K 超高清",
           "urls": [
             "http://[2409:8087:2001:20:2800:0:df6e:eb02]:80/wh7f454c46tw2749731958_105918260/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8?icpid=3&RTS=1681529690&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3"
@@ -278,13 +272,19 @@
         {
           "name": "凤凰中文",
           "urls": [
-            "https://0472.org/hls/fhzw.m3u8?youzaiSB"
+            "https://0472.org/hls/youzaiSB/fhzw.m3u8?youzaiSB"
           ]
         },
         {
           "name": "凤凰资讯",
           "urls": [
-            "https://0472.org/hls/fhzx.m3u8?youzaiSB"
+            "https://0472.org/hls/youzaiSB/fhzx.m3u8?youzaiSB"
+          ]
+        },
+        {
+          "name": "凤凰香港",
+          "urls": [
+            "https://0472.org/hls/youzaiSB/fhhk.m3u8?youzaiSB"
           ]
         },
         {
