@@ -278,13 +278,13 @@
         {
           "name": "凤凰中文",
           "urls": [
-            "http://[2409:8087:2001:20:2800:0:df6e:eb24]:80/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8"
+            "https://0472.org/hls/fhzw.m3u8?youzaiSB"
           ]
         },
         {
           "name": "凤凰资讯",
           "urls": [
-            "http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8"
+            "https://0472.org/hls/fhzx.m3u8?youzaiSB"
           ]
         },
         {
