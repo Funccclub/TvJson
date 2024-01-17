@@ -132,9 +132,15 @@
           ]
         },
         {
+          "name": "CCTV-4K 超高清",
+          "urls": [
+            "http://[2409:8087:2001:20:2800:0:df6e:eb13]/ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8"
+          ]
+        },
+        {
           "name": "CCTV-8K 超高清",
           "urls": [
-            "http://[2409:8087:2001:20:2800:0:df6e:eb02]:80/wh7f454c46tw2749731958_105918260/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8?icpid=3&RTS=1681529690&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3"
+            "http://[2409:8087:2001:20:2800:0:df6e:eb03]/ott.mobaibox.com/PLTV/4/224/3221228165/index.m3u8"
           ]
         },
         {
@@ -236,31 +242,31 @@
         {
           "name": "CGTN记录",
           "urls": [
-            "https://livedoc.cgtn.com/500d/prog_index.m3u8"
+            "http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002905/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
           ]
         },
         {
           "name": "CGTN俄语",
           "urls": [
-            "https://liveru.cgtn.com/1000r/prog_index.m3u8"
+            "http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002883/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
           ]
         },
         {
           "name": "CGTN法语",
           "urls": [
-            "https://livefr.cgtn.com/1000f/prog_index.m3u8"
+            "http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002827/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
           ]
         },
         {
           "name": "CGTN西语",
           "urls": [
-            "https://livees.cgtn.com/1000e/prog_index.m3u8"
+            "http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002716/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
           ]
         },
         {
           "name": "CGTN阿语",
           "urls": [
-            "https://livear.cgtn.com/1000a/prog_index.m3u8"
+            "http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002826/index.m3u8?virtualDomain=yinhe.live_hls.zte.com"
           ]
         },
         {
@@ -618,6 +624,12 @@
           ]
         },
         {
+          "name": "梨园频道",
+          "urls": [
+            "http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380788ba7bed/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQI5%2BK6T7j%2FlRm%2BvbM9VO7bA0q1S1k1f36SqqriM0FZoFSAJRfCt8SS7X6sTRmXb81a8O4H%2FdroDKjLoDeaMQdyJQ"
+          ]
+        },
+        {
           "name": "嘉佳卡通",
           "urls": [
             "http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001227/index.m3u8"
@@ -651,6 +663,18 @@
           "name": "哒啵赛事",
           "urls": [
             "http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226954/1.m3u8"
+          ]
+        },
+        {
+          "name": "黑莓电影",
+          "urls": [
+            "http://[2409:8087:2001:20:2800:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221225567/index.m3u8"
+          ]
+        },
+        {
+          "name": "黑莓动画",
+          "urls": [
+            "http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8"
           ]
         },
         {
