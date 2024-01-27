@@ -392,7 +392,7 @@
         {
           "name": "山西卫视",
           "urls": [
-            "http://[2409:8087:1a01:df::7005]:80//ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225624/index.m3u8"
+            "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225624/index.m3u8"
           ]
         },
         {
@@ -516,6 +516,12 @@
           ]
         },
         {
+          "name": "农林卫视",
+          "urls": [
+            "http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226229/index.m3u8"
+          ]
+        },
+        {
           "name": "康巴卫视",
           "urls": [
             "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225660/index.m3u8"
@@ -543,6 +549,12 @@
           "name": "CETV-4",
           "urls": [
             "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8"
+          ]
+        },
+        {
+          "name": "山东教育",
+          "urls": [
+            "http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226238/index.m3u8"
           ]
         },
         {
@@ -636,6 +648,12 @@
           ]
         },
         {
+          "name": "嘉佳卡通",
+          "urls": [
+            "http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226227/index.m3u8"
+          ]
+        },
+        {
           "name": "哒啵电竞",
           "urls": [
             "http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226951/1.m3u8"
@@ -675,6 +693,12 @@
           "name": "老故事",
           "urls": [
             "http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226236/index.m3u8"
+          ]
+        },
+        {
+          "name": "财富天下",
+          "urls": [
+            "http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226350/index.m3u8"
           ]
         },
         {
