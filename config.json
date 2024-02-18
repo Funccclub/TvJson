@@ -708,6 +708,18 @@
           ]
         },
         {
+          "name": "家庭理财",
+          "urls": [
+            "http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226247/index.m3u8"
+          ]
+        },
+        {
+          "name": "劲爆体育",
+          "urls": [
+            "http://[2409:8087:7001:20:3::6]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226239/index.m3u8"
+          ]
+        },
+        {
           "name": "上海频道",
           "urls": [
             "#genre#"
