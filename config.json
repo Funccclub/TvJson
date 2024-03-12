@@ -446,7 +446,7 @@
         {
           "name": "三沙卫视",
           "urls": [
-            "http://[2409:8087:2001:20:2800:0:df6e:eb21]:80/ott.mobaibox.com/PLTV/4/224/3221228626/index.m3u8"
+            "http://39.136.18.164/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226324/1/index.m3u8?fmt=ts2hls"
           ]
         },
         {
@@ -650,7 +650,7 @@
         {
           "name": "黑莓电影",
           "urls": [
-            "http://[2409:8087:2001:20:2800:0:df6e:eb04]:80/ott.mobaibox.com/PLTV/3/224/3221225567/index.m3u8"
+            "http://[2409:8087:1a0b:df::4014]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8"
           ]
         },
         {
